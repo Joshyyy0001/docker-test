@@ -1,4 +1,4 @@
-FROM        --platform=$TARGETOS/$TARGETARCH openjdk:8-jre-slim
+FROM        openjdk:8-jre-slim
 
 LABEL       author="Joshyyy0001" maintainer="josh@projectastro.xyz"
 
